@@ -1,3 +1,9 @@
+(zhaoyun0071软件需要50元激活，我打5折)
+需要的加我微信
+
+![image](https://user-images.githubusercontent.com/44913208/175757295-04f1076d-839f-4aba-ba21-f7b594871608.png)
+
+
 Disco-Diffusion-Local V3.0 + | [Disco-Diffusion-Local V2.0 +](./README_V2.md)
 
 
@@ -180,5 +186,5 @@ pic_disco\progress.png，每几个step（频率可配置）更新一次图片。
 
 
 # 7、联系我
-
- ![image](https://github.com/zhaoyun0071/Disco-Diffusion-Local/blob/main/images/扫码_搜索联合传播样式-标准色版.png)
+(zhaoyun0071软件需要50元激活，我打5折)
+需要的加我微信
